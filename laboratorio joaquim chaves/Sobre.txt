@@ -1,0 +1,55 @@
+Bem vindo ao Laboratorio Joaquim chaves
+Este programa permite lhe fazer a gestao do labolatorio atraves da seguintes funcionalidades:
+
+FILE:
+Essa funcionalidade vai poder:
+- Ler ficheiro de texto e de objecto(Executando esta funcionalidade vai habilitar outras fucionalidades);
+- Gravar no ficheiro de objecto;
+- Gravar situacao da empresa;
+- Sair do programa.
+
+ANALISE:
+Essa funcionalidade vai poder:
+- Pesquisar uma Analise recebendo o codigo da analise;
+- Alterar Analise recebendo o numero de BI do paciente;
+- Remover Analise recebendo codigo da analise;
+- Adicionar Analise do teclado(Bioquimica,Hematologia,Microbiologia).
+
+CONTABILIDADE:
+Essa funcionalidade vai poder:
+- Contabilizar as quantidades de cada tipo de analise e total;
+- Lucros da empresa:
+   * Valor total com IVA;
+   * Valot total de seguros.
+
+ESTATISTICA:
+Essa funcionalidade vai poder:
+- Mostrar o paciente mais velho e mais novo;
+- Ordenar por(Crescencia ou decrescencia);
+
+VISUALIZACOES:
+Essa funcionalidade vai poder:
+- Visualizar todos dados do paciente;
+- Visualizar dados de cada tipo de analise separadamente;
+- Visualizar situacao dos pacientes,isto e:
+   * Pacientes com anemia;
+   * Pacientes com colesterol alta;
+   * Pacientes com infeccao bacteriana.
+
+EXTRA:
+Essa funcionalidadr contem:
+- Calculadora;
+- Game;
+- Video.
+
+SOBRE:
+Essa funcionalidade contem:
+- Expecificaoes do programa;
+- Dados do programador.
+
+Nota para o programador:
+O metodo Aparencia Serve como um tema para mudar 
+a aparencia da janela que e nos 
+dada pelo por defeito pelo java
+-este metodo e aplicado em toda janela e seus componentes
+ criando desta forma um mais Layout atrativo ao user.   
