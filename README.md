@@ -107,11 +107,6 @@ Read text and object files (Executing this functionality will enable other funct
 <p>Program specifications;
 
 ![Screenshot (136)](https://github.com/BrunoManjate/laboratorio_joaquim_chaves/assets/87826515/89b42395-f40b-45b5-ae97-462d66b3f1ae)
-  
-<p>Programmer details.
-  
-![Screenshot (137)](https://github.com/BrunoManjate/laboratorio_joaquim_chaves/assets/87826515/2e476bc4-aa17-40f0-974b-51d47a08ff6c)
-
 
 # Note to the programmer:
 The Appearance method serves as a theme to change the appearance of the window provided by default by Java. This method is applied to the entire window and its components, creating a more attractive layout for the user.
